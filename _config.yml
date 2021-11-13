@@ -82,7 +82,7 @@ theme_mode:
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+  avatar: https://raw.githubusercontent.com/imnirfn/imnirfn.github.io/master/assets/img/Profile/profile.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -139,6 +139,7 @@ defaults:
       dynamic_title: true    # Hide title in mobile screens.
 
 sass:
+  sass_dir: /assets/css
   style: compressed
 
 compress_html:
