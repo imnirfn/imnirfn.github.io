@@ -1,61 +1,33 @@
 # The Site Configuration
 
-# Import the theme
 theme: jekyll-theme-chirpy
-
-# Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
-# and doesn't have a custom domain.
 baseurl: ''
-
-# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
-# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
-# otherwise, the layout language will use the default value of 'en'.
 lang: en
+timezone: Asia/Kuala_Lumpur
+title: ~/s3ns3  
 
-# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
-
-# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-# ↓ --------------------------
-
-title: ~/s3ns3                          # the main title
-
-tagline: Typical cyber-security and self development blog.   # it will display as the sub-title
-
+tagline: Another typical cyber-security and self development blog.   # it will display as the sub-title
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Another typical cyber-security and self development blog.
 
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://imnirfn.github.io'
-
 avatar: https://raw.githubusercontent.com/imnirfn/imnirfn.github.io/main/assets/img/Profile/profile.jpg
 
 github:
-  username: imnirfn             # change to your github username
+  username: imnirfn 
 
 twitter:
-  username: imnirfn            # change to your twitter username
+  username: imnirfn  
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: imnirfn
-  email: imanirfan84@gmail.com             # change to your email address
+  email: imnirfn@gmail.com  
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/imnirfn      # change to your twitter homepage
-    - https://github.com/imnirfn       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://twitter.com/imnirfn
+    - https://github.com/imnirfn  
+    - https://www.linkedin.com/in/iman-irfan-hisshamudin-65a394182/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
-
-# ↑ --------------------------
-
-
 google_analytics:
   id: ''              # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
