@@ -18,9 +18,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: My personal blog                          # the main title
+title: ~/s3ns3                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Typical cyber-security and self development blog.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
