@@ -1,10 +1,10 @@
 ---
-title:  "Shellcode Injection 101"
+title: "Shellcode Injection 101"
 image: ''
-date:   2021-11-06 07:00:00
-tags: [Binary Exploitation]
+date: 2021-11-06 07:00:00
+tags: [shellcode injection]
 description: 'Learning and thought process doing binary exploitation'
-categories: [Note]
+categories: [binary exploitation]
 ---
 
 # shellcode injection.
